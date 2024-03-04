@@ -335,7 +335,8 @@
         display: block;
         content: '';
         position: absolute;
-        width: calc(50% + 2rem);
+        /* width: calc(50% + 2rem); */
+        width: 70%;
         height: 100%;
         background-color: var(--second-brand-color);
         top: 0;
