@@ -161,6 +161,16 @@
         background-color: var(--main-bg-color); 
     }
 
+    .hero__wrapper .container {
+        margin: 0;
+        max-width: initial;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+    .hero .title, .hero .text {
+        color: #fff;
+    }
+
 
 
     .contacts {
